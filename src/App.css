@@ -120,6 +120,11 @@ body,
 	height: 100vh;
 }
 
+.container {
+	width: 80vw;
+	margin: 0 auto;
+}
+
 .flex {
 	display: flex;
 }
@@ -130,13 +135,4 @@ body,
 
 .grid {
 	display: grid;
-}
-
-.menu {
-	padding: 50px 0;
-}
-
-.section {
-	width: 95vw;
-	margin: 0 auto;
 }

@@ -1,0 +1,5 @@
+.homepage .container {
+	background-color: #fff;
+	height: calc(100vh - 84px);
+	padding: 20px;
+}
