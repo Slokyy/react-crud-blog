@@ -1,0 +1,22 @@
+.single-blog.container {
+	background-color: #fff;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.single-blog-page h1 {
+	font-style: italic;
+	text-align: center;
+}
+
+.single-blog-page h1 > span {
+	display: block;
+	font-size: 20px;
+}
+
+.single-blog-page-author {
+	color: #00f;
+	text-decoration: underline;
+	cursor: pointer;
+}

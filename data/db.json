@@ -1,34 +1,53 @@
 {
   "blogs": [
     {
-      "title": "Blog 1",
-      "body": "Updateovan tekst",
+      "title": "Something 1",
+      "body": "Body of something 1",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
       "author": "mario",
       "id": 1
     },
     {
-      "title": "Novi blog test",
-      "body": "test test test",
+      "title": "Something 2",
+      "body": "Body of something 2",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
+      "author": "louigi",
+      "id": 2
+    },
+    {
+      "title": "Something 3",
+      "body": "Body of something 3",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
       "author": "mario",
       "id": 3
     },
     {
-      "title": "aa",
-      "body": "aa",
+      "title": "Something 4",
+      "body": "Body of something 4",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
       "author": "mario",
       "id": 4
     },
     {
-      "title": "objava 4",
-      "body": "      <h1>{title}</h1>\n      <h1>{title}</h1>\n      <h1>{title}</h1>\n      <h1>{title}</h1>\n      <h1>{title}</h1>\n      <h1>{title}</h1>\n      <h1>{title}</h1>\n",
-      "author": "mario",
+      "title": "Something 5",
+      "body": "Body of Something 5",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
+      "author": "louigi",
       "id": 5
     },
     {
-      "title": "aaaa",
-      "body": "aaaaaaaaaaaaaaaaa",
+      "title": "Something 6",
+      "body": "Body of Something 6",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
       "author": "mario",
       "id": 6
+    },
+    {
+      "title": "Something 7",
+      "body": "Body of something longer without consideration what might happen if it is longer that it needed be",
+      "long-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus dapibus nisi, non vestibulum orci feugiat sit amet. Sed pretium porta enim eu dignissim. Donec gravida tempor laoreet. In purus urna, dictum eu auctor quis, semper at arcu. Donec nec nibh sapien. Maecenas et ante ut arcu egestas vestibulum in a justo. Aliquam erat volutpat. Aliquam ullamcorper lorem ac lacus gravida ullamcorper in vitae mauris. Nulla semper hendrerit blandit. Phasellus eleifend suscipit accumsan. Cras rhoncus vel orci a pulvinar. Donec eu interdum metus. Aenean vulputate dignissim orci sit amet scelerisque. ",
+      "author": "mario",
+      "id": 7
     }
   ]
 }

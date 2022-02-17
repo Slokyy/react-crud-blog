@@ -6,6 +6,16 @@ const HomePage = () => {
   const [ blogs, setBlogs ] = useState();
   const [ loading, setLoading ] = useState(true);
 
+  const handleDelete = (id) => {
+    fetch(`http://localhost:8000/blogs/${id}`, {
+      method: "DELETE",
+    }).then(() => {
+      setTimeout(() => {
+        window.location.reload();
+      }, 500);
+    })
+  }
+
   useEffect(() => {
     setTimeout(() => {
       fetch('http://localhost:8000/blogs')
@@ -33,7 +43,10 @@ const HomePage = () => {
         {loading && <div className="loading">Loading...</div>}
         {blogs?.length > 0 && (
           <div className="container">
-            <BlogList blogs={blogs} />
+            <BlogList 
+              blogs={blogs} 
+              handleDelete={handleDelete}
+            />
           </div>
         )}
       </section>
