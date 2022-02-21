@@ -42,7 +42,9 @@ const SingleBlog = () => {
   // pokusao object destructuring ali blog undefined
   // Da li treba async ili zbog timeouta imam problem
 
-  // const { title, author, long_description, body } = blog
+ /*  const { title, author, long_description, body } = blog */
+
+
 
   return (
     <div className="single-blog container">

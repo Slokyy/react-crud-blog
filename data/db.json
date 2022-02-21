@@ -41,6 +41,13 @@
       "author": "mario",
       "long_description": "Something 9 long description on base of lorem ipsum dolor sit amet something long for the descripotiopn ",
       "id": 8
+    },
+    {
+      "title": "Test blog for error",
+      "body": "Body of error",
+      "author": "louigi",
+      "long_description": "Somelong description, I am long",
+      "id": 9
     }
   ]
 }

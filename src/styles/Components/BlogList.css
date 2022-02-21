@@ -6,10 +6,10 @@
 }
 
 .blog-list h3 {
-	/* align-self: center; */
 	display: inline-block;
 	cursor: pointer;
 	margin: 0;
+	width: 150px;
 	margin-right: 40px;
 }
 .blog-list span {

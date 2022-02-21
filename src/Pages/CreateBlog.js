@@ -2,12 +2,14 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const CreateBlog = () => {
-  const [title, setTitle] = useState();
+  const [title, setTitle] = useState('');
   const [author, setAuthor] = useState("mario");
-  const [body, setBody] = useState();
-  const [long_description, setLongDescription] = useState();
+  const [body, setBody] = useState('');
+  const [long_description, setLongDescription] = useState('');
   const navigate = useNavigate();
   const [isPosting, setIsPosting] = useState(false);
+
+
 
   const handleSubmit = (e) => {
     e.preventDefault();
