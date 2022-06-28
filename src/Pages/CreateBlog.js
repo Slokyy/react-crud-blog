@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "../styles/Pages/CreateBlog.css";
+import "../styles/Pages/FormBlog.css";
 
 const CreateBlog = () => {
 	const [title, setTitle] = useState("");
@@ -32,7 +32,7 @@ const CreateBlog = () => {
 	};
 
 	return (
-		<div className="create-blog container">
+		<div className="form-blog container">
 			<h2>Add new Dev Blog</h2>
 			<form onSubmit={handleSubmit}>
 				<div className="form-group">

@@ -1,10 +1,10 @@
-.create-blog.container {
+.form-blog.container {
   background-color: #fff;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
   padding: 20px;
 }
 
-.create-blog .form-group {
+.form-blog .form-group {
   background-color: #f1f5f8;
   width: 100%;
   margin-bottom: 20px;
@@ -12,14 +12,14 @@
   border-radius: 8px;
 }
 
-.create-blog label {
+.form-blog label {
   display: block;
   margin-bottom: 5px;
   color: #555;
 }
 
-.create-blog .form-group input,
-.create-blog .form-group textarea {
+.form-blog .form-group input,
+.form-blog .form-group textarea {
   width: 40vw;
   padding: 10px;
   border: 1px solid #ccc;
@@ -27,11 +27,11 @@
   resize: none;
 }
 
-.create-blog .form-group textarea {
+.form-blog .form-group textarea {
   height: 150px;
 }
 
-.create-blog .form-group textarea:focus {
+.edit .form-group textarea:focus {
   outline: none;
   border: 2px solid #999;
 }

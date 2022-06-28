@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import "../styles/Pages/EditBlog.css";
+import "../styles/Pages/FormBlog.css";
 
 const EditBlog = () => {
 	const { id } = useParams();
@@ -31,7 +31,7 @@ const EditBlog = () => {
 	};
 
 	return (
-		<div className="edit container">
+		<div className="form-blog container">
 			<h2>Edit blog</h2>
 			{data && (
 				<form>
