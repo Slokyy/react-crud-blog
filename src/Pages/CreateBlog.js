@@ -67,8 +67,8 @@ const CreateBlog = () => {
 				<div className="form-group">
 					<label>Author:</label>
 					<select value={author} onChange={(e) => setAuthor(e.target.value)}>
-						<option value="mario">Mario</option>
-						<option value="louigi">louigi</option>
+						<option value="Mario">Mario</option>
+						<option value="Louigi">Louigi</option>
 					</select>
 				</div>
 

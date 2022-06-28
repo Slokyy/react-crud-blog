@@ -70,8 +70,8 @@ const EditBlog = () => {
 							defaultValue={data?.author}
 							onChange={(e) => setData({ ...data, author: e.target.value })}
 						>
-							<option defaultValue="mario">Mario</option>
-							<option defaultValue="louigi">Louigi</option>
+							<option defaultValue="Mario">Mario</option>
+							<option defaultValue="Louigi">Louigi</option>
 						</select>
 					</div>
 
